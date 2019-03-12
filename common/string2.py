@@ -13,3 +13,18 @@ print('hello \\')
 
 print(10+5)
 print('10'+'5')
+
+
+letter = 'abcedfght'
+
+# slice [start:end-1:step]
+
+# 1부터 끝까지
+letter[1:]
+
+
+#join
+','.join(letter)
+'''
+주석
+'''
